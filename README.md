@@ -1,4 +1,4 @@
-# 📺 Telegram YouTube Summarizer & Q&A Bot
+# 📺 Telegram YouTube Summarizer
 
 An AI-powered Telegram bot that:
 - Accepts YouTube links
@@ -117,3 +117,4 @@ Bot Response:
 
 ## Attached screenshots 
 ![alt text](<Screenshot 2026-02-26 203320.png>)
+
